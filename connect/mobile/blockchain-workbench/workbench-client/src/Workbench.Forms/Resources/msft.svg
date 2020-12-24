@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="41px" height="41px" viewBox="0 0 41 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
-    <title>Group</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group">
-            <rect id="Rectangle" fill="#F25022" x="0" y="0" width="20" height="20"></rect>
-            <rect id="Rectangle" fill="#7FB900" x="21" y="0" width="20" height="20"></rect>
-            <rect id="Rectangle" fill="#00A3EE" x="0" y="21" width="20" height="20"></rect>
-            <rect id="Rectangle" fill="#FFB901" x="21" y="21" width="20" height="20"></rect>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="41" height="41" version="1.1" viewBox="0 0 41 41"><title>Group</title><desc>Created with Sketch.</desc><g id="Page-1" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="Group"><rect id="Rectangle" width="20" height="20" x="0" y="0" fill="#F25022"/><rect id="Rectangle" width="20" height="20" x="21" y="0" fill="#7FB900"/><rect id="Rectangle" width="20" height="20" x="0" y="21" fill="#00A3EE"/><rect id="Rectangle" width="20" height="20" x="21" y="21" fill="#FFB901"/></g></g></svg>
