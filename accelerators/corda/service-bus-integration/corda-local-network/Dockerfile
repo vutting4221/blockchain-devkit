@@ -1,4 +1,4 @@
-FROM openjdk:8u181-jre
+FROM openjdk:8-jre
 LABEL maintainer="ian.morgan@r3.com"
 
 # Port for the API & web servers
