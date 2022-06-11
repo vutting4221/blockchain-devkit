@@ -1,4 +1,4 @@
-FROM openjdk:8u181-jre
+FROM openjdk:8-jre
 LABEL maintainer="ian.j.morgan@gmail.com"
 
 # Port for the main app
